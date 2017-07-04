@@ -2,7 +2,7 @@
 
 Request 提供一个地址可以接收任何HTTP请求，并把结果展现出来，用于审查HTTP客户端发送的内容或Webhook调试。
 
-访问地址：http://request.lesschat.com
+访问地址：https://request.worktile.com
 
 ## 使用技术
 
